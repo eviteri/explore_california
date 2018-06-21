@@ -1,0 +1,10 @@
+# *.txt
+tempfile.txt
+.DS_STORE #this is a file that shows on all macs
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
